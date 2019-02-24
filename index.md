@@ -1,4 +1,4 @@
-## Welcome to the website of Cindy Wang
+## Welcome to the website of Cindy Wang!
 
 ### Introduction
 
@@ -6,4 +6,8 @@
 
 ### Experience
 
+### Honors and Awards
+
 ### Activities
+
+### Projects
