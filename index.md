@@ -12,7 +12,7 @@
 
 ### Projects
 
-[Python projects](../Python.md)  
-[C++ projects](../C++.md)  
-[Java projects](../Java.md)  
-[R projects](../R.md)  
+[Python projects](./Python.md)  
+[C++ projects](./C++.md)  
+[Java projects](./Java.md)  
+[R projects](./R.md)  
