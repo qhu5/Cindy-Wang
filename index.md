@@ -12,7 +12,7 @@
 
 ### Projects
 
-[Python projects](Cindy-Wang/Python.md)
-[C++ projects](Cindy-Wang/Python.md)
-[Java projects](Cindy-Wang/Python.md)
-[R projects](Cindy-Wang/Python.md)
+[Python projects](Cindy-Wang/Python.md)  
+[C++ projects](Cindy-Wang/Python.md)  
+[Java projects](Cindy-Wang/Python.md)  
+[R projects](Cindy-Wang/Python.md)  
