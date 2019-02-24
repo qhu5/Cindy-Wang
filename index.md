@@ -12,7 +12,7 @@
 
 ### Projects
 
-[Python projects](./Python.md)  
-[C++ projects](./C++.md)  
-[Java projects](./Java.md)  
-[R projects](./R.md)  
+[Python projects](https://kaixin-wang.github.io/Cindy-Wang/Python.md)  
+[C++ projects](https://kaixin-wang.github.io/Cindy-Wang/C++.md)  
+[Java projects](https://kaixin-wang.github.io/Cindy-Wang/Java.md)  
+[R projects](https://kaixin-wang.github.io/Cindy-Wang/R.md)  
