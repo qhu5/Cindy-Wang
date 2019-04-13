@@ -1,4 +1,4 @@
-this is a test for user1
+this is a test for user1, syn edit by user1
 
 edited by user2
 
